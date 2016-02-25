@@ -20,7 +20,7 @@
 
   a:hover{
     color: #fff;
-    text-decoration: none;
+    text-decoration: underline;
   }
 
   h1,h2 {
